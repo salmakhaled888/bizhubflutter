@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-sl\\values-sl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,456,559,661,778",
+                        "endColumns": "96,101,97,103,102,101,116,100",
+                        "endOffsets": "147,249,347,451,554,656,773,874"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,456,559,661,778",
+                        "endColumns": "96,101,97,103,102,101,116,100",
+                        "endOffsets": "147,249,347,451,554,656,773,874"
+                    }
+                }
+            ]
+        }
+    ]
+}

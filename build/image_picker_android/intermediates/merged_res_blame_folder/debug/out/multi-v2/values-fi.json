@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,351,456,561,673,789",
+                        "endColumns": "95,101,97,104,104,111,115,100",
+                        "endOffsets": "146,248,346,451,556,668,784,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-fi\\values-fi.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,351,456,561,673,789",
+                        "endColumns": "95,101,97,104,104,111,115,100",
+                        "endOffsets": "146,248,346,451,556,668,784,885"
+                    }
+                }
+            ]
+        }
+    ]
+}

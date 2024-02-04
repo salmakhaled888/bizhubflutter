@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,253,351,451,552,664,776",
+                        "endColumns": "94,102,97,99,100,111,111,100",
+                        "endOffsets": "145,248,346,446,547,659,771,872"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Salma\\StudioProjects\\biz_hub\\build\\image_picker_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-km\\values-km.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-2\\files-2.1\\a3cc5f15e4b1368a1ef64fa1103b3b61\\core-1.10.1\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,253,351,451,552,664,776",
+                        "endColumns": "94,102,97,99,100,111,111,100",
+                        "endOffsets": "145,248,346,446,547,659,771,872"
+                    }
+                }
+            ]
+        }
+    ]
+}
